@@ -1,0 +1,1509 @@
+fileFormatVersion: 2
+guid: 7fc033e24d0419243a4503b06cd7856c
+timeCreated: 1474375227
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_0
+    21300002: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_1
+    21300004: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_2
+    21300006: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_3
+    21300008: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_4
+    21300010: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_5
+    21300012: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_6
+    21300014: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_7
+    21300016: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_8
+    21300018: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_9
+    21300020: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_10
+    21300022: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_11
+    21300024: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_12
+    21300026: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_13
+    21300028: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_14
+    21300030: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_15
+    21300032: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_16
+    21300034: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_17
+    21300036: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_18
+    21300038: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_19
+    21300040: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_20
+    21300042: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_21
+    21300044: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_22
+    21300046: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_23
+    21300048: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_24
+    21300050: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_25
+    21300052: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_26
+    21300054: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_27
+    21300056: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_28
+    21300058: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_29
+    21300060: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_30
+    21300062: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_31
+    21300064: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_32
+    21300066: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_33
+    21300068: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_34
+    21300070: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_35
+    21300072: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_36
+    21300074: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_37
+    21300076: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_38
+    21300078: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_39
+    21300080: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_40
+    21300082: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_41
+    21300084: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_42
+    21300086: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_43
+    21300088: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_44
+    21300090: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_45
+    21300092: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_46
+    21300094: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_47
+    21300096: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_48
+    21300098: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_49
+    21300100: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_50
+    21300102: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_51
+    21300104: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_52
+    21300106: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_53
+    21300108: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_54
+    21300110: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_55
+    21300112: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_56
+    21300114: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_57
+    21300116: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_58
+    21300118: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_59
+    21300120: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_60
+    21300122: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_61
+    21300124: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_62
+    21300126: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_63
+    21300128: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_64
+    21300130: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_65
+    21300132: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_66
+    21300134: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_67
+    21300136: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_68
+    21300138: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_69
+    21300140: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_70
+    21300142: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_71
+    21300144: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_72
+    21300146: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_73
+    21300148: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_74
+    21300150: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_75
+    21300152: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_76
+    21300154: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_77
+    21300156: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_78
+    21300158: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_79
+    21300160: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_80
+    21300162: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_81
+    21300164: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_82
+    21300166: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_83
+    21300168: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_84
+    21300170: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_85
+    21300172: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_86
+    21300174: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_87
+    21300176: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_88
+    21300178: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_89
+    21300180: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_90
+    21300182: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_91
+    21300184: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_92
+    21300186: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_93
+    21300188: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_94
+    21300190: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_95
+    21300192: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_96
+    21300194: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_97
+    21300196: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_98
+    21300198: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_99
+    21300200: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_100
+    21300202: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_101
+    21300204: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_102
+    21300206: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_103
+    21300208: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_104
+    21300210: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_105
+    21300212: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_106
+    21300214: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_107
+    21300216: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_108
+    21300218: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_109
+    21300220: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_110
+    21300222: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_111
+    21300224: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_112
+    21300226: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_113
+    21300228: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_114
+    21300230: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_115
+    21300232: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_116
+    21300234: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_117
+    21300236: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_118
+    21300238: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_119
+    21300240: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_120
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 142
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_1
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 143
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 143
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_3
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 145
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_4
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 145
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_5
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 130
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_6
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 130
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_7
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 128
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_8
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 128
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_9
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 129
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_10
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 131
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_11
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 128
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_12
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 130
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_13
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 132
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_14
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 129
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_15
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 130
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_16
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 129
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_17
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 130
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_18
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 129
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_19
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 130
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_20
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 129
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_21
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 129
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_22
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 129
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_23
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 129
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_24
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 123
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_25
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 124
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_26
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 124
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_27
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 126
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_28
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 126
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_29
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 106
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_30
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 108
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_31
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 108
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_32
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 108
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 85
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_34
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 86
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_35
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 86
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_36
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 88
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_37
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 88
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_38
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 73
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_39
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 73
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_40
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 71
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_41
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 71
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_42
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 72
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_43
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 74
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_44
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 71
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_45
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 73
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_46
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 75
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_47
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 72
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_48
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 73
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_49
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 72
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_50
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 73
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_51
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 72
+        width: 16
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_52
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 73
+        width: 16
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_53
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 72
+        width: 16
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_54
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 72
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_55
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 72
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_56
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 72
+        width: 16
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_57
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 66
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_58
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 67
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_59
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 67
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_60
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 69
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_61
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 69
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_62
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 49
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_63
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 51
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_64
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 51
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_65
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 51
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_66
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 54
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_67
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 54
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_68
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 54
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_69
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 54
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_70
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 54
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_71
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 54
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_72
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 54
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_73
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 54
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_74
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 54
+        width: 4
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_75
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 54
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_76
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 54
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_77
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 54
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_78
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 54
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_79
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 54
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_80
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 54
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_81
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 54
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_82
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 54
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_83
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 54
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_84
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 54
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_85
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 54
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_86
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 54
+        width: 4
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_87
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 54
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_88
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 54
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_89
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 54
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_90
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 41
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_91
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 41
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_92
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 41
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_93
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 41
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_94
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 41
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_95
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 41
+        width: 4
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_96
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 41
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_97
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 41
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_98
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 41
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_99
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 41
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_100
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 41
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_101
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 41
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_102
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 41
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_103
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 27
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_104
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 27
+        width: 4
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_105
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 27
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_106
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 27
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_107
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 27
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_108
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 27
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_109
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 27
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_110
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 27
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_111
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 27
+        width: 4
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_112
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 27
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_113
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 27
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_114
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 27
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_115
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 27
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_116
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 27
+        width: 4
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_117
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 27
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_118
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 27
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_119
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 27
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: super_mario_2d_world_mario_and_luigi_sprites____by_profchristopher-d71f848_120
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 27
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
